@@ -1,3 +1,13 @@
 body {
-    background-color:green;
+    background-color:rgb(124, 177, 124);
 }
+
+.section-container > h2 {
+    background-color: brown;
+}
+
+.section-container > p {
+    background-color: black;
+    color: white;
+}
+
